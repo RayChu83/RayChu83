@@ -1,10 +1,11 @@
 ![Ray Chu Banner](https://i.ibb.co/z2Lnc38/github-banner.png)
+# 👋 About me
 🤝 Hey, my name is Ray Chu and I am passionate about Front End Development.  
 🌱 I’m currently developing a stronger sense of design.  
 ⚡ Certified [Adobe Photoshop Professional](https://www.credly.com/badges/485eefba-1b3b-4b1b-b83c-71c67ea85832) in Visual Design  
 📫 For more information, feel free to reach out via email [here](mailto:rayc12079@gmail.com), or via LinkedIn at [RayChu83](https://www.linkedin.com/in/RayChu83/)
 
-# 💻 Tech Stack:
+# 💻 Tech stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
