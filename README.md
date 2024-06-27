@@ -1,10 +1,7 @@
-<img src="https://i.ibb.co/z2Lnc38/github-banner.png" alt="Ray Chu Banner">
-🤝 Hey, my name is Ray Chu and I am passionate about Front End Development.
-<br>
-🌱 I’m currently developing a stronger sense of design.
-<br>
-⚡ Certified [Adobe Photoshop Professional](https://www.credly.com/badges/485eefba-1b3b-4b1b-b83c-71c67ea85832) in Visual Design
-<br>
+![Ray Chu Banner](https://i.ibb.co/z2Lnc38/github-banner.png)
+🤝 Hey, my name is Ray Chu and I am passionate about Front End Development.  
+🌱 I’m currently developing a stronger sense of design.  
+⚡ Certified [Adobe Photoshop Professional](https://www.credly.com/badges/485eefba-1b3b-4b1b-b83c-71c67ea85832) in Visual Design  
 📫 For more information, feel free to reach out via email [here](mailto:rayc12079@gmail.com), or via LinkedIn at [RayChu83](https://www.linkedin.com/in/RayChu83/)
 
 # 💻 Tech Stack:
@@ -22,4 +19,4 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayChu83&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayChu83&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
