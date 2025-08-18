@@ -1,6 +1,7 @@
 ![Ray Chu Banner](https://i.ibb.co/z2Lnc38/github-banner.png)
 # 👋 About me
 🤝 Hello, my name is Ray, and I am a Software Engineer passionate about developing software applications.
+
 📫 For more information, feel free to reach out via email [here](mailto:rayc12079@gmail.com), or via LinkedIn at [RayChu83](https://www.linkedin.com/in/RayChu83/)
 
 # 💻 Tech stack
